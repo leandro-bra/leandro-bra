@@ -1,17 +1,14 @@
 <h2 align="left">👋 Olá, eu sou Leandro Maciel!</h2>
 <p align="left">
-  💻 Engenheiro de Qualidade de Software (QA), com experiência em automação de testes, APIs, aplicações web/mobile e CI/CD. 
-  Atuo principalmente na análise de riscos, definição de estratégias de teste e garantia da qualidade de produtos digitais. 
+  💻 Engenheiro de Qualidade de Software (QA) | Atuando com Automação de testes, APIs, Aplicações web/mobile e CI/CD. 
 </p>
-<p>Neste espaço compartilho projetos, estudos e experimentos relacionados a qualidade de software, automação e desenvolvimento de software.</p>
-
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)<br>
 JavaScript | Typescript
 
 ## 🕵🏽 Framework de testes
-[![My Skills](https://skillicons.dev/icons?i=cypress,playwrigth)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cypress&theme=light)](https://skillicons.dev)<br>
 Cypress | Playwright
 
 ## 🛠️ Ferramentas e Tecnologias
